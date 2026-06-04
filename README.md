@@ -6,7 +6,7 @@ I built a Streamlit web app where users can enter product details such as price,
 
 ## App Interface
 
-![Demand Forecasting App Interface](Images/Interface.png)
+<img src="Images/Interface.png" alt="Demand Forecasting App Interface" width="600">
 
 ## Project Overview
 
