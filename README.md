@@ -6,7 +6,7 @@ I built a Streamlit web app where users can enter product details such as price,
 
 ## App Interface
 
-![Demand Forecasting App Interface](Images/interface.png)
+![Demand Forecasting App Interface](Images/Interface.png)
 
 ## Project Overview
 
